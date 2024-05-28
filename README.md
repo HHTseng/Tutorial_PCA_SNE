@@ -1,1 +1,1 @@
-# Tutorial_PCA_SNE
+This tutorial introduces two useful dimensionality reduction techniques: One is [**Principal Component Analysis (PCA)**](https://en.wikipedia.org/wiki/Principal_component_analysis), the other called [**t-Distributed Stochastic Neighbor Embedding (t-SNE)**](https://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf).
